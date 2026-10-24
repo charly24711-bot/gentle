@@ -1,0 +1,22 @@
+{
+  "installed_agents": [
+    "antigravity"
+  ],
+  "installed_binary_version": "4.2.1-0.20261023225326-3489b6cdddf7",
+  "managed_asset_digest": "sha256:1dc72e844b1b2c0354012136a87bc19e0bec13d43ed48d416b0aa28834f0c858",
+  "selection_configured": true,
+  "components": [
+    "engram",
+    "skills",
+    "context7",
+    "permissions",
+    "gga",
+    "claude-theme",
+    "opencode-gentle-logo",
+    "persona"
+  ],
+  "preset": "full-gentleman",
+  "persona": "gentleman",
+  "last_update_check": "2026-10-23T22:05:36.1258426-03:00",
+  "last_synced_at": "2026-10-24T01:22:11.0386672Z"
+}
